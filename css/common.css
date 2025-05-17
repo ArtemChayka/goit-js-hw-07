@@ -127,7 +127,7 @@ input#name-input {
 }
 
 .login-form button {
-  font-family: inherit;
+  font: inherit;
   border-radius: 8px;
   padding: 8px 16px;
   width: 86px;
