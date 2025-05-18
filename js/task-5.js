@@ -15,5 +15,5 @@ button.addEventListener('click', () => {
   body.style.backgroundColor = getRandomHexColor()
 })
 
-console.log(getRandomHexColor());
+
 
